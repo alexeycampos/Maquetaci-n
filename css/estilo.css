@@ -64,3 +64,50 @@ nav{
 	border-top-left-radius-radius: 0;
 
 }
+
+ul{
+
+	margin:auto;
+	padding-top: 4px;
+
+	}
+
+
+li{
+
+	float: left;
+	list-style-type: none;
+	padding: 2px;
+	margin: 4px;
+
+}
+
+a{
+
+	text-decoration: none;
+	font-size: 20px;
+	color:#005883;
+	margin-left: 60px;
+	
+}
+
+iframe{
+margin-top:75px;
+margin-left: 350px;
+margin-right: 700px;
+}
+
+li{
+
+	float: left;
+	padding: 2px;
+	margin: 4px;
+
+}
+
+a{
+
+	
+	font-size: 20px;
+	color:red;
+	margin-left: 300px;
